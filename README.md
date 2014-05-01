@@ -6,7 +6,7 @@ Unfortunately, the stuff that will be storaged here will only be avaliable in po
 
 The idea here is give support to pyChE's audience.
 
-pyChE can be acessed in http://pythoneq.blogspot.com.br/
+pyChE can be accessed in http://pythoneq.blogspot.com.br/
 
 About the material and use
 =====
