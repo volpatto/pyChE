@@ -1,8 +1,6 @@
 pyChE
 =====
 
-Author: Diego T. Volpatto
-
 The purpose of this repo is store all code stuff and some resolutions of pyChE. 
 Unfortunately, the stuff that will be storaged here will only be avaliable in portuguese.
 
@@ -20,3 +18,6 @@ Contact
 =====
 
 You can contact me by volpatto@lncc.br.
+
+Best regards,
+Diego T. Volpatto.
