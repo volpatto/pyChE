@@ -1,0 +1,83 @@
+# Arquivo de leitura de variáveis externas
+
+# Utilizar modelo de Thomas? Sim (1) ou não (0)
+
+Thomas_model{
+1
+}
+
+# Utilizar modelo de Bohart-Adams? Sim (1) ou não (0)
+
+BA_model{
+1
+}
+
+# Quantidade de passos espaciais
+nump{
+100
+}
+
+# Passo temporal, min
+dt{
+0.01
+}
+
+# Tempo total de simulação, min
+t_total{
+1500.0
+}
+
+# Concentração na entrada, mmol/L
+C_0{
+1.2
+}
+
+# Altura do leito, cm
+height{
+6.5
+}
+
+# Diâmetro da coluna, cm
+id{
+1.0
+}
+
+# Vazão de entrada, cm^3/min
+Q{
+5.0
+}
+
+# Porosidade, adim
+eps{
+0.365
+}
+
+# Massa específica do adsorvente, g/L
+rho_s{
+1650.0
+}
+
+# Concentração adsorvida no equilíbrio na partícula (q_e do modelo Bohart-Adams), mmol/L
+q_e{
+0.951
+}
+
+# Constante de Langmuir de adsorção (modelo de Thomas), L/mmol
+b{
+6e-1
+}
+
+# Concentração máxima adsorvida na partícula (q_max Langmuir), mmol/g
+q_max{
+0.951
+}
+
+# Constante cinética do modelo de Thomas, L/(mmol min)
+k_a1{
+4.1e-4
+}
+
+# Constante cinética do modelo de Bohart-Adams, L/(mmol min) 
+k_a2{
+4.1e-4
+}
