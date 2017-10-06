@@ -1,4 +1,4 @@
-pyChE
+pySCe
 =====
 
 The purpose of this repo is store all code stuff and some resolutions of pyChE. 
