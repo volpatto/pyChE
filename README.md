@@ -1,12 +1,12 @@
 pySCe
 =====
 
-The purpose of this repo is store all code stuff and some resolutions of pyChE. 
+The purpose of this repo is store all code stuff and some resolutions of pySCe. 
 Unfortunately, the stuff that will be storaged here will only be avaliable in portuguese.
 
-The idea here is give support to pyChE's audience.
+The idea here is give support to pySCe's audience.
 
-pyChE can be accessed in http://pythoneq.blogspot.com.br/
+pySCe can be accessed in http://pythoneq.blogspot.com.br/
 
 About the material and use
 =====
